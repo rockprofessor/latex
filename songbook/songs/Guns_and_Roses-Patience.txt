@@ -75,11 +75,8 @@ Dsus2    D            Dsus2 D  Dsus4  D  Dsus2  D
 Cause I can't take it
 
 [Solo]
-C   G   C   Em   C   G   D  Dsus2 D  Dsus4  D  Dsus2  D
-C   G   C   Em   C   G   D  Dsus2 D  Dsus4  D  Dsus2  D
-D  Dsus2 D  Dsus4  D  Dsus2  D
-D  Dsus2 D  Dsus4  D  Dsus2  D
-D  Dsus2 D  Dsus4  D  Dsus2  D
+C   G   C   Em   C   G   D  Dsus2 D  Dsus4  D  Dsus2  D  (2x)
+D  Dsus2 D  Dsus4  D  Dsus2  D  (3x)
 
 [Bridge]
 D  D/F#  G  D/F#  D            G
