@@ -1,5 +1,6 @@
 [Intro] 4x 
 
+[Verse 1]
 Am                                 F 
 Psychic spies from China try to  steal your minds elation 
 Am                                  F 
@@ -9,11 +10,14 @@ and if you want these kind of dreams its californication.
 
       Am                               F
 Its the edge of the world And all of western civization 
-     Am                                   F
-The sun may rise in the east At least it settles in the final location 
+     Am 
+The sun may rise in the east 
+             F 
+At least it settles in the final location 
    C                 G              F         Dm      (Am Fmaj7) 
 It`s understood that Hollywood sell Californication 
 
+[Chorus]
 Am                             Fmaj7 
 Pay your surgeon very well to break the spell of ageing 
    Am                              Fmaj7 
@@ -29,6 +33,7 @@ Dream of californication     dream of californication
 
 Am  F
 
+[Verse 2]
 Am                                        F
 Marry me girl be my fairy to the world Be my very own constellation 
    Am                                       F 
@@ -36,6 +41,7 @@ A teenage bride with a baby inside getting high of information
      C                    G             F       Dm       (Am  F) 
 And buy me a star on the boulavard its californication 
 
+[Verse 3]
  Am                                     F 
 Space may be the final frontier but its made in a hollywood basement
 Am                                      F
@@ -43,6 +49,7 @@ Cobain can you hear the spreres singing songs off station to station
 C                 G           F         Dm      (Am Fmaj7) 
 And alderons not far away its californication 
 
+[Chorus]
 Am                                Fmaj7
 Born and raised by who praise Control of population 
 Am                           Fmaj7 
@@ -61,17 +68,20 @@ Dream of californication     dream of californication
 F#m      Dmaj7     (2x)
 Bm    D   A    E   (2x)
 
-Am  F 
+Am  F
 
-   Am                                         F 
+[Verse 4]
+   Am                                         F
 Destruction leads to a very rough road but it also breeds creation
   Am                                         F
 And earthquakes are to a girls guitar therye just another good vibration 
    C                      G                   F       Dm       (Am Fmaj7) 
 and tidal waves couldent save the world from californication 
+
+[Chorus]
 Am                             Fmaj7 
 Pay your surgeon very well to break the spell of ageing 
-Am                                           F
+Am                                           Fmaj7
 sicker than the rest there is no test but is this what your craving 
 
 Am                Fmaj7 
