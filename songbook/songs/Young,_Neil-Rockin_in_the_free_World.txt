@@ -1,60 +1,123 @@
 [Intro]
-| Dm    | C  A# | x4
-Dm                    C A#    Dm             C A#
-Colours on the street,    Red white and blue
-       Dm                    C A#         Dm                      C A#
-People shufflin' their feet,       People sleepin' in their shoes
-              Dm                  C     A#
+Em     D  C   x4
+
+[Verse 1]
+Em                     D C
+Colours on the street
+    Em                 D C
+Red white and blue
+       Em                    D C
+People shufflin' their feet
+       Em                      D C
+People sleepin' in their shoes
+              Em                  D    C
 But there's a warnin' sign on the road ahead
-          Dm                           C           A#
+          Em                           D           C
 There's a lot of people sayin' we'd be better off dead
-      Dm                  C       A#
+      Em                  D       C
 Don't feel like Satan but I'm to them
-     Dm                  C      A#
+     Em                  D      C
 so I try to forget it anyway I can
 
 [Chorus]
-F         C                        A# A# Dm
-  Keep on rockin' in the free world
-F         C                        A# A# Dm
-  Keep on rockin' in the free world
-F         C                        A# A# Dm
-  Keep on rockin' in the free world
-F         C                        A# A# Dm
-  Keep on rockin' in the free world
+G         D                        C  C Em
+  KEEP ON ROCKIN' IN THE FREE WORLD
+G         D                        C  C Em
+  KEEP ON ROCKIN' IN THE FREE WORLD
+G         D                        C  C Em
+  KEEP ON ROCKIN' IN THE FREE WORLD
+G         D                        C  C Em
+  KEEP ON ROCKIN' IN THE FREE WORLD
 
-[Interlude]
-  G  F/G  x3, G
-| Dm    | C  A# | x4
+[Instrumental]
+A
+(play for 4 bars, interleave A with A7)
+Em     D  C   x4
+(just like in the intro)
 
 [Verse 2]
-        Dm                C A#      Dm                C A#
-I see a girl in the night,   with a baby in her hand
-         Dm                C A#       Dm          C A#
-Under an old street light,     near a garbage can
-        Dm                          C             A#
+ Em                   D   C
+I see a woman in the night
+ Em                   D  C
+With a baby in her hand
+  Em                   D  C
+Under an old street light
+  Em              D  C
+Near a garbage can
+  Em                               D              C
 Now she puts the kid away and she's gone to get a hit
-    Dm                            C       A#
+  Em                               D       C
 She hates her life and what she's done to it
-       Dm                     C           A#
+  Em                           D           C
 That's one more kid that will never go to school
-      Dm                        C         A#
+  Em                           D           C
 Never get to fall in love never get to be cool
 
 [Chorus]
-F         C                        A# A# Dm
-  Keep on rockin' in the free world
-F         C                        A# A# Dm
-  Keep on rockin' in the free world
-F         C                        A# A# Dm
-  Keep on rockin' in the free world
-F         C                        A# A# Dm
-  Keep on rockin' in the free world
+G         D                        C  C Em
+  KEEP ON ROCKIN' IN THE FREE WORLD
+G         D                        C  C Em
+  KEEP ON ROCKIN' IN THE FREE WORLD
+G         D                        C  C Em
+  KEEP ON ROCKIN' IN THE FREE WORLD
+G         D                        C  C Em
+  KEEP ON ROCKIN' IN THE FREE WORLD
 
-G  F/G  G    x2
+[Instrumental]
+A
+(play for 4 bars, interleave A with A7)
 
-[Harmonica Solo]
-| Dm    | C  A# | x8
+[Solo]
+Em     D  C   x8
 
-[Outro]
-| Dm    | C  A# | x8 (strum Dm C A# chords once)
+[Verse 3]
+  Em                            D C
+We got a thousand points of light
+  Em                D C
+For the homeless man
+  Em                                D C
+We got a kinder gentler machine gun hand
+Em                                D C
+  Em                         D          C
+We got department stores and toilet paper
+  Em                        D           C
+Got styrofoam boxes for the ozone layer
+  Em                         D          C
+Got a man of the people says keep hope alive
+  Em                   D         C
+Got fuel to burn got roads to drive
+
+[Chorus]
+G         D                        C  C Em
+  KEEP ON ROCKIN' IN THE FREE WORLD
+G         D                        C  C Em
+  KEEP ON ROCKIN' IN THE FREE WORLD
+G         D                        C  C Em
+  KEEP ON ROCKIN' IN THE FREE WORLD
+G         D                        C  C Em
+  KEEP ON ROCKIN' IN THE FREE WORLD
+
+[Instrumental]
+A
+(play for 4 bars, interleave A with A7)
+Em     D  C   x8
+
+
+
+Amended to include notes over the last two verses by Chris Blanton.
+Thanks to the original tab from Brian Dawson.
+
+                  Rockin' In the Free World - Neil Young
+
+                Figured out by Brian Dawson (dawsob@rpi.edu)
+
+Progression:  E5 (0799xxx)     D5 (x577xx)   C5 (x355xx)
+
+[Intro]
+
+e|---------------------------------|
+B|---------------------------------|
+G|---------------------------------|
+D|---------------------------------|
+A|-----------------5-----3---------|
+E|-0-0-0-0-0-0-0-0-----------------|
